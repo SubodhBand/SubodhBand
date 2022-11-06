@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SubodhBand
+- 👀 I’m unconvention software developer who loves to code in python & javascript
+- 🌱 I’m currently learning react and node
+- 📫 How to reach me https://www.subodhsanjayband.com/
